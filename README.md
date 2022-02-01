@@ -1,4 +1,4 @@
-# JUAS-2022-accelerator-workshop-group10
+# JUAS-2022-accelerator-workshop-group10-code
 
 Notebook for Topic III
 
