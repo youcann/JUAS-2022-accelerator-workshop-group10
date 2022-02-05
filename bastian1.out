@@ -43,7 +43,7 @@
 @ TITLE            %08s "no-title"
 @ ORIGIN           %16s "5.07.00 Linux 64"
 @ DATE             %08s "05/02/22"
-@ TIME             %08s "18.39.13"
+@ TIME             %08s "22.11.08"
 * NAME                                S               BETX               BETY                 DX                 DY 
 $ %s                                %le                %le                %le                %le                %le 
  "MATCH_MS$START"                     0        102.0228962        17.64106301       0.2146100915                  0
